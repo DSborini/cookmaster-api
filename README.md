@@ -10,7 +10,14 @@ A autenticação foi feita via `JWT`.
 
 É possível adicionar uma imagem à uma receita, utilizando o upload de arquivos fornecido pelo `multer`.
 
+## Para testar localmente:
 
+- Clone o repositório:
+ ``` git clone git@github.com:DSborini/cookmaster-api.git ```
+- Instale as dependências:
+ ``` npm install ```
+- Execute a API:
+ ``` npm start ```
 
 ### 1 - Endpoint para o cadastro de usuários
 
